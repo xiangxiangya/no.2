@@ -51,7 +51,7 @@ public:
 	}
 
 	void UnFileCompresshuff(const std::string & path){
-		FILE *fp3 = fopen("fUnCompre.jpg", "wb");
+		FILE *fp3 = fopen("fUnCompre.TXT", "wb");
 		FILE *fp2 = fopen(path.c_str(), "rb");
 		if (fp2 == nullptr){
 			return;
