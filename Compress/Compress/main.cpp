@@ -6,7 +6,7 @@
 int main()
 {
 	FileCompressHuff h;
-	h.FileCompresshuff("1.bmp");
+	h.FileCompresshuff("1.TXT");
 	h.UnFileCompresshuff("fCompre.TXT");
 	system("pause");
 	return 0;
