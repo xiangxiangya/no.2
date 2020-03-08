@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  haxitong
+//  Hashbucket
 //
 //  Created by 岳浩翔 on 2020/3/8.
 //  Copyright © 2020 岳浩翔. All rights reserved.
