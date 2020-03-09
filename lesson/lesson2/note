@@ -1,0 +1,3 @@
+压缩和解压缩的tar命令，
+压缩：tar -zcvf /tmp/hehe.tar.gz hehe------>将hehe压缩到根目录下的tmp文件夹
+解压缩：tar -zxvf hehe.ter.gz
