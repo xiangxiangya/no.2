@@ -13,6 +13,7 @@ int main()
 	hf.FileCompresshuff("Compress.TXT");
 	hf.UnFileCompresshuff("fCompre.TXT");
 	Lz.UnCompressFile("fUnCompre.TXT");
+
 	system("pause");
 	return 0;
 }
