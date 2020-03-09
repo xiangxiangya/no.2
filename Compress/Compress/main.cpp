@@ -8,8 +8,11 @@
 int main()
 {
 	LZ77 Lz;
+	FileCompressHuff hf;
 	Lz.CompressFile("1.TXT");
-	Lz.UnCompressFile("Compress.TXT");
+	hf.FileCompresshuff("Compress.TXT");
+	hf.UnFileCompresshuff("fCompre.TXT");
+	Lz.UnCompressFile("fUnCompre.TXT");
 	system("pause");
 	return 0;
 }
